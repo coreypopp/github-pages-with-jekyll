@@ -1,3 +1,3 @@
-# Welcome to my blog
+# A test blog using Jekyll
 
-I'm glad you are here. I plan to talk about ...
+Wondering how this could possibly work as a blog.
